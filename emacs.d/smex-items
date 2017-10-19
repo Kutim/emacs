@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ eshell
+ eshell-mode
+ compile
+ shell
+ cd
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (shell . 1)
+ (eshell . 2)
+ (compile . 2)
+ (eshell-mode . 1)
+)
